@@ -1,6 +1,6 @@
-# 4WC Stream Overlay
+# Endurance Extravaganza Stream Overlay
 
-This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu).
+This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu). made by [shdewz](https://github.com/shdewz/4wc-stream-overlay)
 
 ## OBS Setup
 
@@ -9,8 +9,8 @@ This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu)
 |---------------|-----------------------------------------------------|-------|--------|-----------|-----------|
 | vc_overlay*   |                                                     | 480   | 100    | 0         | 880       |
 | osu clients** |                                                     | 480   | 360    | see below | see below |
-| accents       | http://127.0.0.1:24050/4wc-stream-overlay/gameplay/ | 1920  | 1080   | 0         | 0         |
-| main_overlay  | http://127.0.0.1:24050/4wc-stream-overlay/main/     | 1920  | 1080   | 0         | 0         |
+| accents       | http://127.0.0.1:24050/ee-stream-overlay/gameplay/ | 1920  | 1080   | 0         | 0         |
+| main_overlay  | http://127.0.0.1:24050/ee-stream-overlay/main/     | 1920  | 1080   | 0         | 0         |
 
 <sup>*url from discord, replace custom css with [vc.css](vc.css)</sup><br>
 <sup>**normal 4v4 placement according to the following table:</sup>
@@ -29,20 +29,20 @@ This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu)
 | source           | url/path                                           | width | height | x | y   |
 |------------------|----------------------------------------------------|-------|--------|---|-----|
 | vc_overlay       |                                                    | 480   | 100    | 0 | 880 |
-| mappool_overlay* | http://127.0.0.1:24050/4wc-stream-overlay/mappool/ | 2220  | 700    | 0 | 0   |
-| main_overlay     | http://127.0.0.1:24050/4wc-stream-overlay/main/    | 1920  | 1080   | 0 | 0   |
+| mappool_overlay* | http://127.0.0.1:24050/ee-stream-overlay/mappool/ | 2220  | 700    | 0 | 0   |
+| main_overlay     | http://127.0.0.1:24050/ee-stream-overlay/main/    | 1920  | 1080   | 0 | 0   |
 
 ### intro*
 | source           | url/path                                         | width | height | x | y   |
 |------------------|--------------------------------------------------|-------|--------|---|-----|
-| intro_overlay    | http://127.0.0.1:24050/4wc-stream-overlay/intro/ | 1920  | 1080   | 0 | 0   |
+| intro_overlay    | http://127.0.0.1:24050/ee-stream-overlay/intro/ | 1920  | 1080   | 0 | 0   |
 
 <sup>*data pulled from `_data/coming_up.json`, requires exchanging between matches</sup>
 
 ### winner
 | source           | url/path                                          | width | height | x | y   |
 |------------------|---------------------------------------------------|-------|--------|---|-----|
-| winner_overlay   | http://127.0.0.1:24050/4wc-stream-overlay/winner/ | 1920  | 1080   | 0 | 0   |
+| winner_overlay   | http://127.0.0.1:24050/ee-stream-overlay/winner/ | 1920  | 1080   | 0 | 0   |
 
 Intro and winner scenes can also have the vc overlay bottom left if needed
 
