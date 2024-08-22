@@ -1,4 +1,4 @@
-const TEAMSIZE = 4;
+const TEAMSIZE = 2;
 
 let mappool, teams;
 (async () => {
