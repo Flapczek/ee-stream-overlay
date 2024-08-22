@@ -3,14 +3,14 @@ html {
 	padding: 0;
 	margin: 0;
 	overflow-y: hidden;
-	font-family: 'Din';
+	font-family: 'Gotham';
 }
 
 .main {
 	position: relative;
 	width: 1920px;
 	height: 1080px;
-	background-image: url('../_shared/assets/bg_corners.png');
+	background-image: url('../_shared/assets/bg_corner.png');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -47,7 +47,7 @@ html {
 
 .teams {
 	display: flex;
-	color: var(--light);
+	color: var(--dark);
 }
 
 .team {

@@ -54,9 +54,9 @@
 }
 
 :root {
-    --accent: #ff605d;
-    --accent-text: #ff7471;
-    --dark: #111111;
+    --accent: #525252;
+    --accent-text: #525252;
+    --dark: #525252;
     --light: #fcfcfc;
     --text-dark: #6f6f6f;
     --progress-bg: #222222;
