@@ -8,18 +8,18 @@ This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu)
 | source        | url/path                                            | width | height | x         | y         |
 |---------------|-----------------------------------------------------|-------|--------|-----------|-----------|
 | vc_overlay*   |                                                     | 480   | 100    | 0         | 880       |
-| osu clients** |                                                     | 480   | 360    | see below | see below |
+| osu clients** |                                                     | 959   | 360    | see below | see below |
 | accents       | http://127.0.0.1:24050/ee-stream-overlay/gameplay/  | 1920  | 1080   | 0         | 0         |
 | main_overlay  | http://127.0.0.1:24050/ee-stream-overlay/main/      | 1920  | 1080   | 0         | 0         |
 
 <sup>*url from discord, replace custom css with [vc.css](vc.css)</sup><br>
 <sup>**normal 2v2 placement (Height: 850 in tournament.cfg) according to the following table:</sup>
-| client | x    | y    | width | height |
-|--------|------|------|-------|--------|
-| 0      | 0    | 160  | 959   | 360    |
-| 1      | 0    | 519  | 959   | 360    |
-| 2      | 959  | 160  | 959   | 360    |
-| 3      | 959  | 519  | 959   | 360    |
+| client | x    | y    | 
+|--------|------|------|
+| 0      | 0    | 160  |
+| 1      | 0    | 519  |
+| 2      | 959  | 160  |
+| 3      | 959  | 519  |
 
 ### mappool
 | source           | url/path                                           | width | height | x | y   |
