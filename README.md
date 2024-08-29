@@ -4,6 +4,8 @@ This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu)
 
 ## OBS Setup
 
+Install fonts from `_shared/fonts` folder
+
 ### main scene  
 | source        | url/path                                            | width | height | x         | y         |
 |---------------|-----------------------------------------------------|-------|--------|-----------|-----------|
