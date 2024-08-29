@@ -8,7 +8,7 @@ This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu)
 | source        | url/path                                            | width | height | x         | y         |
 |---------------|-----------------------------------------------------|-------|--------|-----------|-----------|
 | vc_overlay*   |                                                     | 480   | 100    | 0         | 880       |
-| osu clients** |                                                     | 959   | 360    | see below | see below |
+| osu clients** |                                                     | 960   | 360    | see below | see below |
 | accents       | http://127.0.0.1:24050/ee-stream-overlay/gameplay/  | 1920  | 1080   | 0         | 0         |
 | main_overlay  | http://127.0.0.1:24050/ee-stream-overlay/main/      | 1920  | 1080   | 0         | 0         |
 
@@ -18,8 +18,8 @@ This overlay is intended to be used with [tosu](https://github.com/KotRikD/tosu)
 |--------|------|------|
 | 0      | 0    | 160  |
 | 1      | 0    | 519  |
-| 2      | 959  | 160  |
-| 3      | 959  | 519  |
+| 2      | 960  | 160  |
+| 3      | 960  | 519  |
 
 ### mappool
 | source           | url/path                                           | width | height | x | y   |
