@@ -55,3 +55,13 @@ Add a stinger transition between scenes. File is in the stream package, set tran
 - Right click: right (blue) team pick
 - Ctrl+Click: ban
 - Shift+Click: clear
+
+## Other
+
+### `_data` folder
+
+Not included here. Contains the following items:
+- `teams.json` - list of teams, static
+- `beatmaps.json` - mappool file, exchanged weekly
+- `coming_up.json` - time and team names for a match, exchanged every match, used for intro screen
+- `streamer.json` - your name, as `{"username": "yourname"}`
