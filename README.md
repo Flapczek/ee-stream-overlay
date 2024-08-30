@@ -15,7 +15,7 @@ Install fonts from `_shared/fonts` folder
 | main_overlay  | http://127.0.0.1:24050/ee-stream-overlay/main/      | 1920  | 1080   | 0         | 0         |
 
 <sup>*url from discord, replace custom css with [vc.css](vc.css)</sup><br>
-<sup>**normal 2v2 placement (Height: 850 in tournament.cfg) according to the following table:</sup>
+<sup>**normal 2v2 placement according to the following table:</sup>
 | client | x    | y    | 
 |--------|------|------|
 | 0      | 0    | 160  |

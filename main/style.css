@@ -45,7 +45,7 @@ html {
 	align-items: center;
 	font-weight: bold;
 	font-style: italic;
-	font-family: 'Helvetica Now';
+	font-family: 'Gotham';
 	letter-spacing: -10px;
 	color: rgba(0, 0, 0, 0);
 	-webkit-text-stroke: 3px #1f1f1f;
@@ -210,7 +210,7 @@ html {
 }
 
 .stage-name {
-	font-family: 'Script';
+	font-family: 'Gotham';
 	margin-top: -26px;
 	margin-bottom: -30px;
 	color: var(--accent);
@@ -238,7 +238,7 @@ html {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	font-family: 'Mont';
+	font-family: 'Gotham';
 	font-variant-numeric: tabular-nums;
 	opacity: 1;
 	transition: opacity 300ms ease;
